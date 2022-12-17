@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+
+
+*{
+  padding: 0;
+  background-color: #121113;
+  color: #E4E6C3;
+  font-family: 'Sawarabi Gothic', 'Arial';
+  font-size: 15px;
+}
+
+
+#figma {
+  width: 120px;
+  height: 120px;
+  border-radius: 120px;
+  margin-right: 17px;
+}
+
+#close {
+  margin-top: 22px;
+}
