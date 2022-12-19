@@ -3,6 +3,7 @@
 
 *{
   padding: 0;
+  box-sizing: border-box;
   background-color: #121113;
   color: #E4E6C3;
   font-family: 'Sawarabi Gothic', 'Arial';
@@ -11,12 +12,28 @@
 
 
 #figma {
-  width: 120px;
-  height: 120px;
+  position: absolute;
+    top: 0;
+    left: 0;
+  top: 35px;
+  left: 85px;
+  width: 115px;
+  height: 115px;
   border-radius: 120px;
-  margin-right: 17px;
 }
 
 #close {
-  margin-top: 22px;
+  margin: 5px;
+  margin-top: 10px;
+  margin-left: 83px;
+}
+
+#close2 {
+  margin: 5px;
+  margin-left: 85px;
+}
+
+#close3 {
+  margin: 1px;
+  margin-left: 85px;
 }

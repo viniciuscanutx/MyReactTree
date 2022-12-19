@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+
+.card-image{
+    background-color: white;
+    border-radius: 10px;
+    margin: 2px 0px 12px ;
+    height: 8rem;
+    display: flex;
+  }
+  .card-image>img{
+    background-color: white;
+    margin: auto;
+  }
+  
+  p{
+    color: #899878;
+  }
+  h4{
+    font-style: bold;
+    font-family: 'Sawarabi Gothic', 'Arial';
+  }
+
